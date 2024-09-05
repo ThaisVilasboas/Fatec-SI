@@ -1,0 +1,7 @@
+C:\Users\2880972323032\Desktop\ProgOrientadaOBJ\ProgramaçãoOrientada001\ProgramaçãoOrientada001\bin\Debug\ProgramaçãoOrientada001.exe.config
+C:\Users\2880972323032\Desktop\ProgOrientadaOBJ\ProgramaçãoOrientada001\ProgramaçãoOrientada001\bin\Debug\ProgramaçãoOrientada001.exe
+C:\Users\2880972323032\Desktop\ProgOrientadaOBJ\ProgramaçãoOrientada001\ProgramaçãoOrientada001\bin\Debug\ProgramaçãoOrientada001.pdb
+C:\Users\2880972323032\Desktop\ProgOrientadaOBJ\ProgramaçãoOrientada001\ProgramaçãoOrientada001\obj\Debug\ProgramaçãoOrientada001.csproj.AssemblyReference.cache
+C:\Users\2880972323032\Desktop\ProgOrientadaOBJ\ProgramaçãoOrientada001\ProgramaçãoOrientada001\obj\Debug\ProgramaçãoOrientada001.csproj.CoreCompileInputs.cache
+C:\Users\2880972323032\Desktop\ProgOrientadaOBJ\ProgramaçãoOrientada001\ProgramaçãoOrientada001\obj\Debug\ProgramaçãoOrientada001.exe
+C:\Users\2880972323032\Desktop\ProgOrientadaOBJ\ProgramaçãoOrientada001\ProgramaçãoOrientada001\obj\Debug\ProgramaçãoOrientada001.pdb
