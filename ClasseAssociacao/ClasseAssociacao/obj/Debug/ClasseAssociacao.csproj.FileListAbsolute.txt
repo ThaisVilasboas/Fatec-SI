@@ -1,0 +1,7 @@
+C:\Users\2880972323038\source\repos\ClasseAssociacao\ClasseAssociacao\bin\Debug\ClasseAssociacao.exe.config
+C:\Users\2880972323038\source\repos\ClasseAssociacao\ClasseAssociacao\bin\Debug\ClasseAssociacao.exe
+C:\Users\2880972323038\source\repos\ClasseAssociacao\ClasseAssociacao\bin\Debug\ClasseAssociacao.pdb
+C:\Users\2880972323038\source\repos\ClasseAssociacao\ClasseAssociacao\obj\Debug\ClasseAssociacao.csproj.AssemblyReference.cache
+C:\Users\2880972323038\source\repos\ClasseAssociacao\ClasseAssociacao\obj\Debug\ClasseAssociacao.csproj.CoreCompileInputs.cache
+C:\Users\2880972323038\source\repos\ClasseAssociacao\ClasseAssociacao\obj\Debug\ClasseAssociacao.exe
+C:\Users\2880972323038\source\repos\ClasseAssociacao\ClasseAssociacao\obj\Debug\ClasseAssociacao.pdb
