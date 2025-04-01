@@ -1,0 +1,53 @@
+using System;
+namespace desafio;
+
+internal class Program
+{
+    // Faça um algoritimo para receber um número qualquer
+    // e imprimir na tela se o número é par ou impar e se ele é positivo ou negativo
+    static void Main(string[] args)
+    
+    {   
+        int numero = 0;
+        int resultado = 0;
+        Console.WriteLine("Digite um valor inteiro:");
+        numero = int.Parse(Console.ReadLine());
+        
+        if (numero == 0);
+        { 
+            Console.WriteLine(" Não é possivel dividir o valor digitado por zero, pois o resto da divisão também vai ser zero");
+        }
+
+        else
+         {
+            resultado = numero % 2;
+         
+        if(resultado == 0 && numero > 0) 
+        {
+            Console.WriteLine("O valor digitado é par e corresponde a um número positivo");
+        }
+
+        else if (resultado == 0 && numero < 0)
+        
+        {
+             Console.WriteLine("O valor digitado é par e correponde a um número negativo");
+        }
+    
+        else if (resultado != 0 && numero > 0) 
+        {
+            Console.WriteLine("O valor digitado é impar e corresponde a um número positivo");
+        }
+
+        else if (resultado != 0 && numero < 0)
+        
+        {
+             Console.WriteLine("O valor digitado é impar e correponde a um número negativo");
+        }
+         }
+
+        
+            
+    Console.ReadKey();
+
+    }
+}

@@ -1,0 +1,26 @@
+using System;
+namespace desafio;
+
+internal class Program
+{
+
+    // Ler um numero inteiro (que represente  graus Celsius)
+    // Fazer a conta que converte para graus Fahrenheit atribuindo o resultado a uma variavel do tipo double
+    // Mostrar o resultado na tela
+    static void Main(string[] args)
+    {   
+        double temperaturaCelsius = 0;
+        double temperaturaFahrenheit = 0; 
+
+
+        Console.WriteLine("Escreva a temperatura em grau Celsius que deseja converter para Fahrenheit: ");
+        temperaturaCelsius = double.Parse(Console.ReadLine());
+        temperaturaFahrenheit = (temperaturaCelsius *  9/5) + 32;
+        Console.WriteLine("O valor convertido é " + Math.Round(temperaturaFahrenheit,2));
+
+        Console.ReadKey();
+
+
+
+    }
+}
